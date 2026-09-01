@@ -101,15 +101,12 @@ Formação prática em desenvolvimento de software, trabalhando com tecnologias 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickviniciusfs&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickviniciusfs&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickviniciusfs&theme=radical)
-
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patrickviniciusfs
+&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickviniciusfs
+&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
