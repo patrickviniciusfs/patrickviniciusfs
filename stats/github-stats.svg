@@ -1,0 +1,24 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bc8cff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="10" fill="#0d1117"/>
+  <rect x="2" y="2" width="491" height="191" rx="8" fill="none" stroke="url(#grad)" stroke-width="2"/>
+  
+  <text x="30" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">GitHub Stats</text>
+  <text x="30" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">@patrickviniciusfs</text>
+  
+  <line x1="30" y1="85" x2="465" y2="85" stroke="#21262d" stroke-width="1"/>
+  
+  <text x="30" y="115" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Total Stars:</text>
+  <text x="465" y="115" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#e3b341" text-anchor="end">0</text>
+  
+  <text x="30" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Total Forks:</text>
+  <text x="465" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#58a6ff" text-anchor="end">0</text>
+  
+  <text x="30" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Contributions:</text>
+  <text x="465" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#3fb950" text-anchor="end">77</text>
+</svg>
