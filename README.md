@@ -61,9 +61,9 @@ Principais funcionalidades:
 * API REST
 * JWT com cookie HttpOnly
 
-🔗 [Frontend]([LINK_DO_REPOSITORIO](https://github.com/patrickviniciusfs/helpdesk-web))
+🔗 [Frontend](https://github.com/patrickviniciusfs/helpdesk-web)
 
-🔗 [Backend]([LINK_DO_REPOSITORIO](https://github.com/patrickviniciusfs/helpdesk-api))
+🔗 [Backend](https://github.com/patrickviniciusfs/helpdesk-api)
 
 ---
 
@@ -75,7 +75,7 @@ A aplicação consome a **API do TMDB** para exibição de filmes e possui uma A
 
 **React + TypeScript + API REST**
 
-🔗 [Ver projeto]([LINK_DO_REPOSITORIO](https://github.com/patrickviniciusfs/React-Filmes))
+🔗 [Ver projeto](https://github.com/patrickviniciusfs/React-Filmes)
 
 ---
 
