@@ -12,34 +12,34 @@ Atualmente estou aprimorando meus conhecimentos em desenvolvimento **Full Stack*
 
 ### Frontend
 
-* React
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Axios
-* Vite
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
 
-* Java
-* Spring Boot
-* Spring Security
-* APIs REST
-* JPA / Hibernate
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=postman&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Banco de Dados
 
-* PostgreSQL
-* SQL
-* H2
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white)
+![H2](https://img.shields.io/badge/H2-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Ferramentas
 
-* Git
-* GitHub
-* Postman
-* Jira
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -96,6 +96,20 @@ A aplicação consome a **API do TMDB** para exibição de filmes e possui uma A
 **Residência em TIC — Serratec**
 
 Formação prática em desenvolvimento de software, trabalhando com tecnologias frontend, backend, APIs, banco de dados e desenvolvimento colaborativo.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickviniciusfs&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickviniciusfs&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickviniciusfs&theme=radical)
+
+</div>
 
 ---
 
