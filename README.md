@@ -102,10 +102,9 @@ Formação prática em desenvolvimento de software, trabalhando com tecnologias 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patrickviniciusfs
-&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickviniciusfs
-&layout=compact&theme=tokyonight" />
+  <img height="170" src="./stats/github-stats.svg" />
+  <img height="170" src="./stats/top-langs.svg" />
+  <img height="170" src="./stats/github-streak.svg" />
 </p>
 
 ---
